@@ -1,0 +1,31 @@
+.blog{
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.blog h1{
+    font-size: 35px;
+    font-family:'Courier New', Courier, monospace ;
+    text-align: center;
+    background: rgb(36, 35, 35);
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.blog h3{
+    font-size: 30px;
+    text-align: center;
+    background: rgb(216, 66, 11);
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.blog p{
+    font-size: 20px;
+
+}
+
